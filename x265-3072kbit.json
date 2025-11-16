@@ -79,7 +79,7 @@
       "PicturePadBottom": 0,
       "PicturePadLeft": 0,
       "PicturePadRight": 0,
-      "PresetDescription": "for 1080p@60fps",
+      "PresetDescription": "for 720p@60fps and 1080p@30fps",
       "PresetName": "x265-3072kbit",
       "Type": 1,
       "SubtitleAddCC": false,
@@ -113,4 +113,5 @@
   "VersionMajor": 59,
   "VersionMicro": 0,
   "VersionMinor": 0
+
 }
